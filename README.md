@@ -2,6 +2,8 @@
 
 This project demonstrates that dependabot is not useable for Flutter projects using the beta channel.
 
+This problem is tracked at https://github.com/dependabot/dependabot-core/issues/5084
+
 ## How to reproduce
 
 ### 1. Make sure you are on the Flutter stable channel
