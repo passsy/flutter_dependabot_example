@@ -414,7 +414,7 @@ Dependabot downgrades `js`, `path` and `test_api` because dependabot uses an old
 // pubspec.yaml
 
 - go_router: 3.0.5
-+ go_router: ^3.0.5
++ go_router: ^3.0.7
 ```
 
 ```diff
